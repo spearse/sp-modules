@@ -1,0 +1,16 @@
+{
+  "slug": "SP-Modules",
+  "name": "SP",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "SP",
+  "author": "Stephen Pearse",
+  "authorEmail": "spearse198@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": []
+}
